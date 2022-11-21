@@ -1,5 +1,7 @@
-[![Header](https://blog.magmalabs.io/wp-content/uploads/2017/07/qa-tester.png/)
+[![Header](https://blgithub.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 ## I'm a QA Engineer. 
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 
 ### Language and Tools
