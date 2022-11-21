@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://blog.magmalabs.io/wp-content/uploads/2017/07/qa-tester.png/)
+[![Header](https://blog.magmalabs.io/wp-content/uploads/2017/07/qa-tester.png/)
 ## I'm a QA Engineer. 
 
 
