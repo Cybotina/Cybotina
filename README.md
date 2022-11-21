@@ -1,16 +1,25 @@
-### Hi there 👋
+Header
+I'm a QA Engineer and Tutor.
+A creator of "Artsiom Rusau QA Life" Youtube channel
+My CV
+Link to my CV
 
-<!--
-**Cybotina/Cybotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Latest Youtube Videos
+ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?
+Как написать правильный отчёт о дефекте (баг репорт)?
+QASE - обзор TMS для тестировщика (QA)
+GitHub (git) для тестировщика (QA). Полный курс
+Организация процесса тестирования (QA) на пальцах
+Language and Tools
+Header Header Header Header Header Header Header Header Header Header Header Header Header Header
 
-Here are some ideas to get you started:
+Testing Documentation
+Checklists
+Test-Suites and Test-Cases
+Bug-Reports
+SQL Queries
+Postman Collections
+Follow Me
+Header Header Header Header Header
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Anurag's GitHub stats
